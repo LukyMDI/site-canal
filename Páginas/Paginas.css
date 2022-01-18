@@ -1,0 +1,122 @@
+body{
+    font: normal 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #181818;
+    overflow: auto;
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+div img#banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 1286px;
+    position: relative;
+    bottom: 106px;
+    z-index: -1;
+    box-shadow: 0px 5px 5px #3d3d3d;
+}
+
+div img#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 250px;
+    position: relative;
+    top: 20px;
+}
+
+div a#l_logo{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.textos h1{
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    position: relative;
+    bottom: 70px;
+    font-size: 20pt;
+}
+
+div.textos p{
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+    bottom: 20px;
+    color: white;
+    text-align: justify;
+    text-indent: 25px;
+    left: 230px;
+    width: 630px;
+    font-size: 12.5pt;
+}
+
+div.iframe{
+    position: relative;
+    text-align: center;
+    min-height: 315px;
+    bottom: 20px;
+}
+
+#rodape{
+    margin: auto;
+    bottom: 0;
+}
+
+#rodape footer{
+    background-color: #424242;
+    width: 100%;
+    height: 100px;    
+    /*text-align: center;*/
+    /*line-height: 100px;*/
+    /*margin-top: 100px;*/
+    margin: auto;
+    bottom: 0;
+}
+
+#rodape #sk{
+    text-align: center;
+}
+
+#rodape img{
+    position: relative;
+    top: 100px;
+}
+
+#rodape div#sk img{
+    height: auto;
+    width: 500px;
+}
+
+/*#rodape div#redes{
+    position: relative;
+    text-align: right;
+    top: 90px;
+    margin-right: 30px;
+}
+
+#rodape div#insta img{
+    height: auto;
+    width: 45px;
+}
+
+#rodape div#yout img{
+    height: auto;
+    width: 44px;
+}
+
+#rodape div#yout{
+    position: relative;
+    bottom: 8px;
+    left: 1px;
+}*/
